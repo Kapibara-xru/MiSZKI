@@ -1,0 +1,19 @@
+C:\Users\twoso\YandexDisk\7Семестр\МиСЗКИ\лаб3\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\twoso\YandexDisk\7Семестр\МиСЗКИ\лаб3\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\twoso\YandexDisk\7Семестр\МиСЗКИ\лаб3\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\twoso\YandexDisk\7Семестр\МиСЗКИ\лаб3\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+C:\Users\twoso\YandexDisk\7Семестр\МиСЗКИ\лаб3\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\twoso\YandexDisk\7Семестр\МиСЗКИ\лаб3\lab3\lab3\obj\Debug\lab3.pdb
+C:\Users\Дмитрий\YandexDisk\7Семестр\МиСЗКИ\лаб3\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\Дмитрий\YandexDisk\7Семестр\МиСЗКИ\лаб3\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\Дмитрий\YandexDisk\7Семестр\МиСЗКИ\лаб3\lab3\lab3\obj\Debug\lab3.pdb
+C:\Users\Дмитрий\YandexDisk\7Семестр\МиСЗКИ\лаб3\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\Дмитрий\YandexDisk\7Семестр\МиСЗКИ\лаб3\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\Дмитрий\YandexDisk\7Семестр\МиСЗКИ\лаб3\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+E:\Учеба\Марков\МиСЗКИ\Лаб 3\lab3\lab3\bin\Debug\lab3.exe.config
+E:\Учеба\Марков\МиСЗКИ\Лаб 3\lab3\lab3\bin\Debug\lab3.exe
+E:\Учеба\Марков\МиСЗКИ\Лаб 3\lab3\lab3\bin\Debug\lab3.pdb
+E:\Учеба\Марков\МиСЗКИ\Лаб 3\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+E:\Учеба\Марков\МиСЗКИ\Лаб 3\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+E:\Учеба\Марков\МиСЗКИ\Лаб 3\lab3\lab3\obj\Debug\lab3.exe
+E:\Учеба\Марков\МиСЗКИ\Лаб 3\lab3\lab3\obj\Debug\lab3.pdb
